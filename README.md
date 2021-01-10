@@ -21,8 +21,8 @@ At first, the code to run the analysis on both years was a bit slower, both year
 
 After refactoring the code, execution time decreased to about 0.17 seconds for both years. 
 
-![](Resources/VBA_Challenge_2017.png)
-![](Resources/VBA_Challenge_2018.png)
+![](Resources/VBA_Challenge_2017.PNG)
+![](Resources/VBA_Challenge_2018.PNG)
 
 ## Summary
 Refactoring code can reduce the execution time and make the macro more efficient. This can lead to getting results faster. It can also make the code more organized and readable.
